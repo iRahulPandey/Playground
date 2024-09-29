@@ -1,4 +1,4 @@
-# **Physics Playground**
+# **Playground**
 
 An interactive simulation to explore physics concepts through dynamic shapes and forces, built with [p5.js](https://p5js.org/).
 
